@@ -1,0 +1,19 @@
+{
+  "name": "s3calendar",
+  "title": "S3-Calendar",
+  "id": "jid1-ovVO3xmOZD0hHw",
+  "description": "This addons for Mozilla Firefox and Google Chrome provide a way to export events from Uniba-Esse3 to Google Calendar",
+  "author": "PV Solution - Copyright 2014",
+  "license": "MPL 2.0",
+  "version": "1.1",
+  "icon": "icon.png",
+
+   "preferences": [{
+        "name": "calendarName",
+        "title": "Goolge Calendar ID",
+        "description": "TIPS: Go to google.com/calendar, on the left click on 'My Calendar' then click 'Settings'. In the new opened page click on prefered calendar and at Calendar Adress's row copy the calendar ID string.",
+        "type": "string",
+        "value": ""
+    }]
+   
+}
