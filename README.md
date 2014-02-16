@@ -1,7 +1,7 @@
 s3calendar
 ==========
 
-An addon for Mozilla Firefox and Google Chrome, which provides a way to export exams schedule from the Uniba Esse3 system (http://www.studenti.ict.uniba.it/esse3/Home.do) to a Google Calendar
+An addon for Mozilla Firefox and Google Chrome, which provides a way to export exams schedule from the Uniba Esse3 system (http://www.studenti.ict.uniba.it/esse3/Home.do) and import it to Google Calendar.
 
 Usage
 =====
