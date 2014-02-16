@@ -17,4 +17,4 @@ Mozilla Firefox: https://github.com/collab-uniba/s3calendar/blob/master/Firefox/
 
 Warning
 =======
-Please, note that this addons are intended only for Uniba students and professors of the University of Bari. In order to work with other installation of the Esse3 system, the code should be adapted.
+Please, note that these addons are intended only for Uniba students and professors of the University of Bari. In order to work with other installation of the Esse3 system, the code should be adapted.
