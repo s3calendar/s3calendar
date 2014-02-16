@@ -6,6 +6,7 @@ An addon for Mozilla Firefox and Google Chrome, which provides a way to export e
 Download (ver. 0.1)
 ========
 Google Chrome: https://github.com/collab-uniba/s3calendar/blob/master/Chrome/S3%20-%20Calendar.crx
+
 Mozilla Firefox: https://github.com/collab-uniba/s3calendar/blob/master/Firefox/s3calendar.xpi
 
 Warning
