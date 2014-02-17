@@ -15,7 +15,7 @@ Google Chrome: https://dl.dropboxusercontent.com/u/420195/s3calendar/S3%20-%20Ca
 
 Mozilla Firefox: https://dl.dropboxusercontent.com/u/420195/s3calendar/s3calendar.xpi
 
-Please, not that the Google Chrome extension is not signed, so you need to enable the "Developer mode" in your chrome://extensions page before trying to install it.
+Please, note that the Google Chrome extension is not signed, so you need to enable the "Developer mode" in your chrome://extensions page before trying to install it.
 
 Warning
 =======
